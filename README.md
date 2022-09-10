@@ -1,3 +1,3 @@
-# YuyakeRecog
+Yuyake recognition.
 
-2021.10
+Data obtained before 2021.10?
